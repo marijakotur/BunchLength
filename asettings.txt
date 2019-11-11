@@ -1,0 +1,1 @@
+{'L00phase': 237.0, 'L02crest': 163.0, 'screen': 'lima/liveviewer/i-bc1-dia-scrn-01', 'sext_BC2_k2': 39.81923049249244, 'sext_BC1_k2': 1.3720121799290004, 'charge_BC1': 25.0, 'charge_BC2': 22.0, 'quad_BC1': 3.9507, 'L01phase': 84.0, 'quad_BC2': 60.186, 'L02phase': 260.0, 'L00crest': 1000.0, 'L01crest': 303.0, 'dip_BC2': 169.4679, 'dip_BC1': 243.6006}
